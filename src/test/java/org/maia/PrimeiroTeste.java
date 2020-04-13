@@ -68,7 +68,7 @@ public class PrimeiroTeste {
     	
     	Assertions.assertThat(resultado).isEqualTo(500.0);
     	System.out.println("RESULTADO: "+ resultado);  	  
-    	.
+    	
     }
     
 
