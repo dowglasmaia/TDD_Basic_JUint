@@ -67,7 +67,8 @@ public class PrimeiroTeste {
     	double resultado = calculadora.multiplicar(10.0, 50.0);
     	
     	Assertions.assertThat(resultado).isEqualTo(500.0);
-    	System.out.println("RESULTADO: "+ resultado);  	   	
+    	System.out.println("RESULTADO: "+ resultado);  	  
+    	.
     }
     
 
