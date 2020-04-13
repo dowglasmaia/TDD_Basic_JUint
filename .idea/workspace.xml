@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b19be8-1ca6-48ea-83cf-87214eb82224" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YU3ceNOcMCX5sH5v9wXVddUDrN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.PrimeiroTeste">
+    <configuration name="PrimeiroTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestInitialProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.maia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.maia" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroTeste.deveMultiplicar2ValoresDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestInitialProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.maia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.maia" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="METHOD_NAME" value="deveMultiplicar2ValoresDouble" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroTeste.deveSubritarir2Numeros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestInitialProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.maia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.maia" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="METHOD_NAME" value="deveSubritarir2Numeros" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroTeste.naoDeveSomarNumerosNegativos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestInitialProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.maia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.maia" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="METHOD_NAME" value="naoDeveSomarNumerosNegativos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroTeste.nãoDeveSubritairNumeroNegativos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestInitialProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.maia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.maia" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="METHOD_NAME" value="nãoDeveSubritairNumeroNegativos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrimeiroTeste" />
+        <item itemvalue="JUnit.PrimeiroTeste.deveMultiplicar2ValoresDouble" />
+        <item itemvalue="JUnit.PrimeiroTeste.nãoDeveSubritairNumeroNegativos" />
+        <item itemvalue="JUnit.PrimeiroTeste.deveSubritarir2Numeros" />
+        <item itemvalue="JUnit.PrimeiroTeste.naoDeveSomarNumerosNegativos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b19be8-1ca6-48ea-83cf-87214eb82224" name="Default Changelist" comment="" />
+      <created>1582983425751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582983425751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583197278800">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="395" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583197278800" />
+    <state width="1322" height="344" key="GridCell.Tab.0.bottom" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1322" height="344" key="GridCell.Tab.0.center" timestamp="1583198993968">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993968" />
+    <state width="1322" height="344" key="GridCell.Tab.0.left" timestamp="1583198993968">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993968" />
+    <state width="1322" height="344" key="GridCell.Tab.0.right" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1322" height="344" key="GridCell.Tab.1.bottom" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1322" height="344" key="GridCell.Tab.1.center" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1322" height="344" key="GridCell.Tab.1.left" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1322" height="344" key="GridCell.Tab.1.right" timestamp="1583198993969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1322" height="344" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state x="126" y="94" key="SettingsEditor" timestamp="1583013229672">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="126" y="94" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1583013229672" />
+    <state x="691" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1583195391937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="691" y="279" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583195391937" />
+    <state x="343" y="118" width="607" height="804" key="find.popup" timestamp="1583013109604">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="343" y="118" width="607" height="804" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1583013109604" />
+  </component>
+</project>
