@@ -3,17 +3,21 @@ package org.maia;
 import java.math.BigDecimal;
 
 import org.assertj.core.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 
 
 public class PrimeiroTeste {
-/*
+
     Calculadora calculadora;
 
-    @Before
+    @BeforeEach
     public void setUp(){
         this.calculadora = new Calculadora();
     }
-	
+
+    @DisplayName("Deve Somar 02 Números")
     @Test
     public void deveSomar2Nuemros(){
         // cenário
@@ -28,13 +32,16 @@ public class PrimeiroTeste {
     }
 
 
-    @Test(expected = RuntimeException.class)
+    @DisplayName("Não Deve Somar Núemros Negativos")
+    @Test
     public void naoDeveSomarNumerosNegativos(){
         //senario
         int num1 = -20, num2 = 10;
 
         //execução
-        int resultado = calculadora.somar(num1, num2);
+        //int resultado = calculadora.somar(num1, num2);
+        org.junit.jupiter.api.Assertions
+                .assertThrows(RuntimeException.class, ()-> calculadora.somar(num1, num2));
     }
 
 
@@ -50,14 +57,15 @@ public class PrimeiroTeste {
         Assertions.assertThat(num2 - num1).isEqualTo(resultado);
     }
 
-    @Test(expected = RuntimeException.class)
+    @Test
     public void nãoDeveSubritairNumeroNegativos(){
         //senario
         int num1 = -50, num2= 100;
 
         //execução
-        int resultado = calculadora.subitrair( num2 , num1);
-        Assertions.assertThat(resultado).isBetween(10,40);
+       // int resultado = calculadora.subitrair( num2 , num1);
+       // Assertions.assertThat(resultado).isBetween(10,40);
+        org.junit.jupiter.api.Assertions.assertThrows(RuntimeException.class, ()-> calculadora.subitrair(num2,num1));
     }
 
     @Test
@@ -73,10 +81,10 @@ public class PrimeiroTeste {
 
  
 }
-*/
+
 	
 /* CLASS*/
-	/*
+
 class Calculadora{
 
     public int somar(int num, int num2){
@@ -104,5 +112,5 @@ class Calculadora{
     public BigDecimal dividirComBigDecimal(BigDecimal num1, BigDecimal num2){
         return  num1.divide(num2);
     }
-*/
+
 }
