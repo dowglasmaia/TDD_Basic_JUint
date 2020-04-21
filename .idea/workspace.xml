@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5b19be8-1ca6-48ea-83cf-87214eb82224" name="Default Changelist" comment="" />
+    <list default="true" id="e5b19be8-1ca6-48ea-83cf-87214eb82224" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/maia/CadastroPessoaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/maia/CadastroPessoaTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/maia/MockitoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/maia/MockitoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/maia/PrimeiroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/maia/PrimeiroTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.maia/TestInitialProgram/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.maia/TestInitialProgram/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.maia/TestInitialProgram/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.maia/TestInitialProgram/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/maia/CadastroPessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/maia/CadastroPessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/maia/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/maia/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/maia/exceptions/PessoaInexistentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/maia/exceptions/PessoaInexistentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/maia/exceptions/PessoaSemNomeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/maia/exceptions/PessoaSemNomeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/maia/CadastroPessoaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/maia/CadastroPessoaTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/maia/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/maia/MockitoTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/maia/MockitoTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/maia/PrimeiroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/maia/PrimeiroTeste.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,13 +50,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="JUnit.PrimeiroTeste">
-    <configuration name="PrimeiroTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CadastroPessoaTests">
+    <configuration name="CadastroPessoaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestInitialProgram" />
       <extension name="coverage">
         <pattern>
@@ -43,13 +67,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.maia" />
-      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.CadastroPessoaTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiroTeste.deveMultiplicar2ValoresDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CadastroPessoaTests.deveAdicionarUmaPessoa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestInitialProgram" />
       <extension name="coverage">
         <pattern>
@@ -58,14 +82,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.maia" />
-      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
-      <option name="METHOD_NAME" value="deveMultiplicar2ValoresDouble" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.CadastroPessoaTests" />
+      <option name="METHOD_NAME" value="deveAdicionarUmaPessoa" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiroTeste.deveSubritarir2Numeros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CadastroPessoaTests.deveCriarCadastroDePessoa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestInitialProgram" />
       <extension name="coverage">
         <pattern>
@@ -74,14 +98,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.maia" />
-      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
-      <option name="METHOD_NAME" value="deveSubritarir2Numeros" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.CadastroPessoaTests" />
+      <option name="METHOD_NAME" value="deveCriarCadastroDePessoa" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiroTeste.naoDeveSomarNumerosNegativos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CadastroPessoaTests.deveLancarErrorAoTentarRemoverPessoaInexistente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestInitialProgram" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +114,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.maia" />
-      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
-      <option name="METHOD_NAME" value="naoDeveSomarNumerosNegativos" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.CadastroPessoaTests" />
+      <option name="METHOD_NAME" value="deveLancarErrorAoTentarRemoverPessoaInexistente" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiroTeste.nãoDeveSubritairNumeroNegativos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CadastroPessoaTests.naoDeveAdicioinarPessoaComNomeVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestInitialProgram" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +130,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.maia" />
-      <option name="MAIN_CLASS_NAME" value="org.maia.PrimeiroTeste" />
-      <option name="METHOD_NAME" value="nãoDeveSubritairNumeroNegativos" />
+      <option name="MAIN_CLASS_NAME" value="org.maia.CadastroPessoaTests" />
+      <option name="METHOD_NAME" value="naoDeveAdicioinarPessoaComNomeVazio" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimeiroTeste" />
-        <item itemvalue="JUnit.PrimeiroTeste.deveMultiplicar2ValoresDouble" />
-        <item itemvalue="JUnit.PrimeiroTeste.nãoDeveSubritairNumeroNegativos" />
-        <item itemvalue="JUnit.PrimeiroTeste.deveSubritarir2Numeros" />
-        <item itemvalue="JUnit.PrimeiroTeste.naoDeveSomarNumerosNegativos" />
+        <item itemvalue="JUnit.CadastroPessoaTests" />
+        <item itemvalue="JUnit.CadastroPessoaTests.deveLancarErrorAoTentarRemoverPessoaInexistente" />
+        <item itemvalue="JUnit.CadastroPessoaTests.naoDeveAdicioinarPessoaComNomeVazio" />
+        <item itemvalue="JUnit.CadastroPessoaTests.deveAdicionarUmaPessoa" />
+        <item itemvalue="JUnit.CadastroPessoaTests.deveCriarCadastroDePessoa" />
       </list>
     </recent_temporary>
   </component>
@@ -137,26 +161,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587478665700">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="371" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1587478665700" />
     <state x="395" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583197278800">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="395" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583197278800" />
-    <state width="1322" height="344" key="GridCell.Tab.0.bottom" timestamp="1583198993969">
+    <state x="405" y="193" key="FileChooserDialogImpl" timestamp="1587480656640">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1322" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
-    <state width="1322" height="344" key="GridCell.Tab.0.center" timestamp="1583198993968">
+    <state x="405" y="193" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1587480656640" />
+    <state width="1320" height="261" key="GridCell.Tab.0.bottom" timestamp="1587482176581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1322" height="344" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993968" />
-    <state width="1322" height="344" key="GridCell.Tab.0.left" timestamp="1583198993968">
+    <state width="1320" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1587482176581" />
+    <state width="1320" height="261" key="GridCell.Tab.0.center" timestamp="1587482176581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1322" height="344" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993968" />
-    <state width="1322" height="344" key="GridCell.Tab.0.right" timestamp="1583198993969">
+    <state width="1320" height="261" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1587482176581" />
+    <state width="1320" height="261" key="GridCell.Tab.0.left" timestamp="1587482176581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1322" height="344" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
+    <state width="1320" height="261" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1587482176581" />
+    <state width="1320" height="261" key="GridCell.Tab.0.right" timestamp="1587482176581">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1320" height="261" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1587482176581" />
     <state width="1322" height="344" key="GridCell.Tab.1.bottom" timestamp="1583198993969">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -173,10 +205,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1322" height="344" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583198993969" />
-    <state x="126" y="94" key="SettingsEditor" timestamp="1583013229672">
+    <state x="690" y="118" width="998" height="708" key="SettingsEditor" timestamp="1587480747053">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="126" y="94" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1583013229672" />
+    <state x="690" y="118" width="998" height="708" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1587480747053" />
     <state x="691" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1583195391937">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

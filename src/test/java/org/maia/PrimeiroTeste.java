@@ -3,11 +3,10 @@ package org.maia;
 import java.math.BigDecimal;
 
 import org.assertj.core.api.Assertions;
-import org.junit.Before;
-import org.junit.Test;
+
 
 public class PrimeiroTeste {
-
+/*
     Calculadora calculadora;
 
     @Before
@@ -74,8 +73,10 @@ public class PrimeiroTeste {
 
  
 }
-
+*/
+	
 /* CLASS*/
+	/*
 class Calculadora{
 
     public int somar(int num, int num2){
@@ -103,5 +104,5 @@ class Calculadora{
     public BigDecimal dividirComBigDecimal(BigDecimal num1, BigDecimal num2){
         return  num1.divide(num2);
     }
-
+*/
 }
